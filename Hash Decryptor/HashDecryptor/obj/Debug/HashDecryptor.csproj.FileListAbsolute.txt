@@ -1,0 +1,10 @@
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\bin\Debug\HashDecryptor.exe.config
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\bin\Debug\HashDecryptor.exe
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\bin\Debug\HashDecryptor.pdb
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.csprojAssemblyReference.cache
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.Form1.resources
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.Properties.Resources.resources
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.csproj.GenerateResource.cache
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.exe
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.pdb
+C:\Users\Isaiah\Source\repos\HashDecryptor\HashDecryptor\obj\Debug\HashDecryptor.csproj.CoreCompileInputs.cache
